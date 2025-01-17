@@ -1,1 +1,3 @@
-echo 1
+kamu
+dan 
+aku
